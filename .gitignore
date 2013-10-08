@@ -1,0 +1,5 @@
+#generated files
+*.pyc
+slic.so
+_slic.cpp
+build
